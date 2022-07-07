@@ -90,7 +90,7 @@ The chart below shows trend of the last 24 months about DBMS according to DB-eng
 
 And here is a list of time-series databases compiled by DB-Engines. The highest-ranked chronological database is InfluxDB, while TDengine created by TAOS Data ranks 13.
 
-![image-20220707171841637](C:\Users\80908\AppData\Roaming\Typora\typora-user-images\image-20220707171841637.png)
+![image-20220707171841637](https://github.com/Wen-Yuhan/The-Design-and-Application-of-Time-series-Database/blob/main/images/image-20220707171841637.png)
 
 ### Summary
 
@@ -101,6 +101,5 @@ At present, there isn't a database that dominates the time-series database marke
 ### Reference
 
 + https://aiven.io/blog/an-introduction-to-time-series-databases
-
 + https://new.qq.com/omn/20211104/20211104A03ZQW00.html
 + https://zhuanlan.zhihu.com/p/350041920
