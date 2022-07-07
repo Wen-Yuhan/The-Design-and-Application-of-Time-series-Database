@@ -86,7 +86,7 @@ For instance, retailers are now using forecasting to plan ahead and restock bicy
 
 The chart below shows trend of the last 24 months about DBMS according to DB-engines. We can find that the time-series database has been the most active and increasing over time.
 
-![image-20220707171143945](C:\Users\80908\AppData\Roaming\Typora\typora-user-images\image-20220707171143945.png)
+![image-20220707171143945](https://github.com/Wen-Yuhan/The-Design-and-Application-of-Time-series-Database/blob/main/images/image-20220707171143945.png)
 
 And here is a list of time-series databases compiled by DB-Engines. The highest-ranked chronological database is InfluxDB, while TDengine created by TAOS Data ranks 13.
 
